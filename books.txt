@@ -1,0 +1,19 @@
+A Book on C
+Al Kelly and Ira Pohl
+Addison-Wesley, Fifth Edition 1998.
+0201183994
+
+C How to Program
+Paul Deitel and Harvey Deitel
+Prentice Hall Sixth Edition 2010
+0136123562     
+
+Object Oriented Design and Patterns
+Cay Horstmann
+Wiley, 3rd Edition 2012
+0471744875
+
+Core Java
+Horstmann and Cornell
+Prentice Hall - 9th Edition, 2012
+0131118269 
